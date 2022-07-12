@@ -1,0 +1,7 @@
+You have two varians of work in Git: in Web-browser or in your local computer using git console
+Please sign in on the GitHub website 
+Install Git on your computer using the following link https://git-scm.com/book/ru/v2/
+!!!Important!!! Before starting with VSCode please initiate with the commands: git config --global user.name «your name»; git config --global user.email your.email@y.com
+You can create new repository with the way Repository-New-Create New (in Web-version) or using command git init in terminal
+Then please add or create the file you want to work with
+You can add new files, change existed and commit it during your work
