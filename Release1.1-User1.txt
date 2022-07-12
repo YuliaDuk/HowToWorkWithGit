@@ -1,1 +1,4 @@
-No any ways to resolve conflicts
+Three ways to resolve the conflicts:
+Add both variants
+Delete Release1.1-User1
+Delete Release1.1-User2
