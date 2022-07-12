@@ -1,0 +1,9 @@
+In your local computer:
+-You can add new branch with the command git branch name
+-You can see the list of branches using git branch
+-You can choose another branch using git checkout name
+
+In the Web-browser
+Please use button "Switch branches or tags"
+
+When you finish your work you can send pull request to another branch and merge your working results
